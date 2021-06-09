@@ -5,12 +5,12 @@ https://github.com/CatalinOAlexandru/OnTheRun-Game
 
 An run here:
 
-https://catalinoalexandru.github.io/OnTheRun/
+https://catalinoalexandru.github.io/OnTheRun-Game/
 
 ------------------------------------------------------------------------
 
 # This prototype can be run here:
 
-https://catalinoalexandru.github.io/ForestRunner/
+https://catalinoalexandru.github.io/ForestRunner-Game/
 
 
